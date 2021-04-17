@@ -1,0 +1,44 @@
+/* DON'T TOUCH THIS! */
+
+/* DON'T TOUCH THIS! */
+
+/* ==========================
+	Write your solution here!
+   ========================== */
+
+body {
+	margin: 0;
+	font-family: 'Lato', sans-serif;
+	color: #2e354f;
+	text-align: center;
+}
+
+a {	
+	color: #ef5839;
+}
+
+.container {
+	width: 620px;
+	margin: 0 auto;
+}
+
+.title-text {
+	background: #2e354f;
+	color: #FFF;
+	padding: 5px;
+	margin: 20px auto;
+	width: 420px;
+}
+
+.btn {
+	display: inline-block;
+	background: #ef5839;
+	color: #FFF;
+	text-decoration: none;
+	padding: 5px 12px;
+}
+
+.btn:hover {
+	background: #d4b44c;
+	color: #2e354f;
+}
